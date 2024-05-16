@@ -1,0 +1,19 @@
+def rainemoji(flight, train, vehicle):
+    flightemoji(
+        emoji="✈️",
+        font_size=54,
+        falling_speed=3,
+        animation_length="5s",
+    )
+    train(
+        emoji="✈️",
+        font_size=54,
+        falling_speed=3,
+        animation_length="5s",
+    )
+    vehicle(
+        emoji="✈️",
+        font_size=54,
+        falling_speed=3,
+        animation_length="5s",
+    )
